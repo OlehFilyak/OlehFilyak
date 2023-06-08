@@ -1,6 +1,6 @@
 <h2>Inspired to create beauty 👨‍🎨</h2>
 
-<h3> 👨🏻‍💻 &nbsp;Hey there! I'm Oleh Filiak 👋</h3>
+<h3>Hey there! I'm Oleh Filiak 👋</h3>
 
 🎓 &nbsp; Completed GoIT Courses as a full stack developer, Epam University Program as a front-end developer, and Softserve Academy as a React developer.
 <br/>
@@ -10,7 +10,7 @@
 <br/>
 ✍️ &nbsp; In my free time, I do many things, such as hiking in the mountains, playing volleyball, reading books, and hanging out with my friends.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3>Tech Stack</h3>
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
