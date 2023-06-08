@@ -21,7 +21,6 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
@@ -33,7 +32,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/olehfiliak"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oleh%20Filiak%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/oleh_filyak/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Oleh-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/oleh_filyak/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Oleh%20Filiak%20-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:oleh.filyak92@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oleh.filyak92@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
