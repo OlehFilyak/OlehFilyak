@@ -1,6 +1,6 @@
-<h2> Hey there! I'm Oleh Filiak.</h2>
+<h2>Inspired to create beauty 👨‍🎨</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;Hey there! I'm Oleh Filiak 👋</h3>
 
 🎓 &nbsp; Completed GoIT Courses as a full stack developer, Epam University Program as a front-end developer, and Softserve Academy as a React developer.
 <br/>
