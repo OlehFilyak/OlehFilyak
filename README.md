@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Completed GoIT Courses as a fullstack developer, Epam University Program as a front-end developer, Softserve Academy as a React developer.
-- 💼 &nbsp; I'm looking for a job as a frontend developer.
-- 🌱 &nbsp; Now I'm learning Next.js, design.
-- ✍️ &nbsp; In my free time, I do many things, such as hiking in the mountains, playing volleyball, reading books, and hanging out with my friends.
+🎓 &nbsp; Completed GoIT Courses as a fullstack developer, Epam University Program as a front-end developer, Softserve Academy as a React developer.
+💼 &nbsp; I'm looking for a job as a frontend developer.
+🌱 &nbsp; Now I'm learning Next.js, design.
+✍️ &nbsp; In my free time, I do many things, such as hiking in the mountains, playing volleyball, reading books, and hanging out with my friends.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
