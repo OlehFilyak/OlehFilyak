@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-🎓 &nbsp; Completed GoIT Courses as a fullstack developer, Epam University Program as a front-end developer, Softserve Academy as a React developer.
+🎓 &nbsp; Completed GoIT Courses as a full stack developer, Epam University Program as a front-end developer, and Softserve Academy as a React developer.
 <br/>
 💼 &nbsp; I'm looking for a job as a frontend developer.
 <br/>
