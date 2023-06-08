@@ -11,30 +11,37 @@
 ✍️ &nbsp; In my free time, I do many things, such as hiking in the mountains, playing volleyball, reading books, and hanging out with my friends.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-🌐 &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  <br/>
-🛢 &nbsp;
-  ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgres)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  <br/>
-⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  <br/>
-🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  <br/>
-🖥 &nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-<br/>
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+
+<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
+
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
+
+<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
