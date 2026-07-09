@@ -61,10 +61,6 @@ Full-stack task management platform: REST API with JWT authentication, role-base
 - 📖 [quick-blog-AI-agents](https://github.com/OlehFilyak/quick-blog-AI-agents) — blog platform demo built with AI agents: OpenAI API integration and AI-assisted workflows *(JavaScript · Next.js)*
 - 📖 kapusta — Finance Tracker — team project: expense/income tracker with reports *(React · Node.js)* — [frontend](https://github.com/OlehFilyak/kapusta-itninja-front) · [backend](https://github.com/OlehFilyak/kapusta-itninja-back)
 
-## 📊 GitHub Stats
-
-![GitHub metrics: contribution activity, community stats and most used languages. Regenerated daily by GitHub Actions.](github-metrics.svg)
-
 ## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-olehfiliak-0A66C2?style=flat-square)](https://www.linkedin.com/in/olehfiliak/)
