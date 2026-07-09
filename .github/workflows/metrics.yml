@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # щоденне оновлення о 06:00 UTC
+  schedule: [{cron: "0 6 * * *"}]
+  # ручний запуск із вкладки Actions
+  workflow_dispatch:
+  # перегенерація при пуші в main
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: OlehFilyak
+          template: classic
+          filename: github-metrics.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Berlin
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
