@@ -1,52 +1,80 @@
-<h2>Inspired to create beauty 👨‍🎨</h2>
+# Hi there, I'm Oleh 👋
 
-<h3>Hey there! I'm Oleh Filiak 👋</h3>
+### Java Full Stack Developer — Spring Boot · React · Next.js
 
-🎓 &nbsp; Completed GoIT Courses as a full stack developer, Epam University Program as a front-end developer, and Softserve Academy as a React developer.
-<br/>
-💼 &nbsp; I'm looking for a job as a frontend developer.
-<br/>
-🌱 &nbsp; Now I'm learning Next.js, design.
-<br/>
-✍️ &nbsp; In my free time, I do many things, such as hiking in the mountains, playing volleyball, reading books, and hanging out with my friends.
+I build full-stack web applications with RESTful APIs, authentication, database integration and responsive UI.
+Looking for an **internship, trainee or junior position** to grow as part of a professional team.
 
-<h3>Tech Stack</h3>
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+> *"From sales leadership to software engineering — I bring discipline, communication and a builder's mindset to every project."*
 
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+## ⚡ About me
 
-<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- 🔭 Currently building **TaskFlow** — a full-stack task management app (Spring Boot + React + PostgreSQL)
+- 🌱 Deepening my Java stack: Spring Security, Spring Data JPA, testing with JUnit & Mockito
+- 🤖 Exploring AI-assisted development: OpenAI API integration, Cursor, prompt engineering
+- 💬 Ask me about REST APIs, JWT auth, React, Redux Toolkit, responsive UI
+- 🌍 Ukrainian (native) · English (B2) · German (B2) — based in Germany, open to remote
 
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+## 🛠️ Tech Stack
 
-<img align="left" alt="PostgreSQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+**Backend**
 
-<img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+**Frontend**
 
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+**DevOps & QA**
 
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" />
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
 
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/babel/babel.png" />
+**Tools**
 
-<img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-2C2C2C?style=flat-square&logo=intellijidea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+## 🚀 Featured Project
 
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### 📋 [TaskFlow — Task Management Platform](https://github.com/OlehFilyak/taskflow)
 
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+Full-stack task management platform: REST API with JWT authentication, role-based access, filtering and pagination; React + TypeScript frontend with dashboards and full auth flow. Dockerized, automated CI/CD with GitHub Actions, tested with JUnit & Mockito.
 
-<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<h3>Connect with Me </h3>
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `JWT` `React` `TypeScript` `Docker` `GitHub Actions`
 
-<p align="center">
-<a href="https://www.linkedin.com/in/olehfiliak"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Oleh%20Filiak%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/oleh_filyak/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Oleh%20Filiak%20-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:oleh.filyak92@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oleh.filyak92@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+**More projects:**
 
+- 📖 [quick-blog-AI-agents](https://github.com/OlehFilyak/quick-blog-AI-agents) — blog platform demo built with AI agents: OpenAI API integration and AI-assisted workflows *(JavaScript · Next.js)*
+- 📖 kapusta — Finance Tracker — team project: expense/income tracker with reports *(React · Node.js)* — [frontend](https://github.com/OlehFilyak/kapusta-itninja-front) · [backend](https://github.com/OlehFilyak/kapusta-itninja-back)
+
+## 📊 GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=OlehFilyak&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=OlehFilyak&show_icons=true&hide_border=true&bg_color=00000000">
+  <img alt="Oleh's GitHub statistics: total stars, commits, pull requests and rank." src="https://github-readme-stats.vercel.app/api?username=OlehFilyak&show_icons=true&hide_border=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehFilyak&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&langs_count=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehFilyak&layout=compact&hide_border=true&bg_color=00000000&langs_count=6">
+  <img alt="Most used programming languages across Oleh's repositories." src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlehFilyak&layout=compact&hide_border=true&langs_count=6">
+</picture>
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-olehfiliak-0A66C2?style=flat-square)](https://www.linkedin.com/in/olehfiliak/)
+[![Email](https://img.shields.io/badge/Email-oleh.filyak92%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oleh.filyak92@gmail.com)
