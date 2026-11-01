@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # щоденне оновлення о 06:00 UTC
-  schedule: [{cron: "0 6 * * *"}]
+  # щотижневе оновлення: понеділок, 06:00 UTC
+  schedule: [{cron: "0 6 * * 1"}]
   # ручний запуск із вкладки Actions
   workflow_dispatch:
   # перегенерація при пуші в main
